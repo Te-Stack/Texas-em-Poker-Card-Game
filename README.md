@@ -1,3 +1,3 @@
-# aTexas-em-Poker-Project
-This contain code of my poker card project
-This Poker Card is Built with purely Python
+###Texas-em-Poker-Card Game 
+This is a poker card game created purely with python. I used TDD when developing this is to aviod the minimal bug available. it is terminal-based App.
+
